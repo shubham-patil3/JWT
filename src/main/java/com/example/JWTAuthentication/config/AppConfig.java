@@ -1,4 +1,4 @@
-package com.example.JWTAuthenticationSpringboot.config;
+package com.example.JWTAuthentication.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

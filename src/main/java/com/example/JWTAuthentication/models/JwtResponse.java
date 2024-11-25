@@ -1,4 +1,4 @@
-package com.example.JWTAuthenticationSpringboot.models;
+package com.example.JWTAuthentication.models;
 
 import lombok.*;
 

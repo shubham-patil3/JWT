@@ -1,8 +1,8 @@
-package com.example.JWTAuthenticationSpringboot.config;
+package com.example.JWTAuthentication.config;
 
-import com.example.JWTAuthenticationSpringboot.models.JwtRequest;
-import com.example.JWTAuthenticationSpringboot.models.JwtResponse;
-import com.example.JWTAuthenticationSpringboot.security.JWTHelper;
+import com.example.JWTAuthentication.models.JwtRequest;
+import com.example.JWTAuthentication.models.JwtResponse;
+import com.example.JWTAuthentication.security.JWTHelper;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;

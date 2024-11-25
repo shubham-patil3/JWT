@@ -1,7 +1,7 @@
-package com.example.JWTAuthenticationSpringboot.config;
+package com.example.JWTAuthentication.config;
 
-import com.example.JWTAuthenticationSpringboot.security.JWTAthenticationEntryPoint;
-import com.example.JWTAuthenticationSpringboot.security.JWTAuthenticationFilter;
+import com.example.JWTAuthentication.security.JWTAthenticationEntryPoint;
+import com.example.JWTAuthentication.security.JWTAuthenticationFilter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

@@ -1,8 +1,7 @@
-package com.example.JWTAuthenticationSpringboot.controllers;
+package com.example.JWTAuthentication.controllers;
 
-import com.example.JWTAuthenticationSpringboot.models.User;
-import com.example.JWTAuthenticationSpringboot.services.UserService;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.example.JWTAuthentication.models.User;
+import com.example.JWTAuthentication.services.UserService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

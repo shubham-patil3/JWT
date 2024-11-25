@@ -1,6 +1,6 @@
-package com.example.JWTAuthenticationSpringboot.services;
+package com.example.JWTAuthentication.services;
 
-import com.example.JWTAuthenticationSpringboot.models.User;
+import com.example.JWTAuthentication.models.User;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

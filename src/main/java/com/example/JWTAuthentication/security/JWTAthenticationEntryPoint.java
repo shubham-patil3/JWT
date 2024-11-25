@@ -1,4 +1,4 @@
-package com.example.JWTAuthenticationSpringboot.security;
+package com.example.JWTAuthentication.security;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

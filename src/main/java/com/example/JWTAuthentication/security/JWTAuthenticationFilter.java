@@ -1,4 +1,4 @@
-package com.example.JWTAuthenticationSpringboot.security;
+package com.example.JWTAuthentication.security;
 
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.MalformedJwtException;
